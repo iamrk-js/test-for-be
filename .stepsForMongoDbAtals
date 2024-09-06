@@ -1,0 +1,24 @@
+go to mongoDB and create account sign up
+
+then login and create new project
+
+then create a cluster 
+use free one
+
+set username niturkarravikiran9
+and password R6UfcxrOjoKQ13cG
+
+npm install mongodb
+mongodb+srv://niturkarravikiran9:R6UfcxrOjoKQ13cG@cluster0.ly82g.mongodb.net/posts?retryWrites=true&w=majority&appName=Cluster0
+
+go to Network Access 
+add new IP Address 0.0.0.0/0
+from any where
+
+
+npm i mongoose --save
+
+connect mongoose.connect(url)
+
+create config folder and dev file
+
